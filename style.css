@@ -1,4 +1,10 @@
+
+body{
+   background-color: rgb(236, 213, 225);
+}
 h1 { 
    font-size: 50px;
    color:rgb(255, 0, 136);
+   text-align: center;
+   text-transform: uppercase;
 }
